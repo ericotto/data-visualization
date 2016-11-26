@@ -1,0 +1,17 @@
+.tooltip div {
+  background: rgba(192, 192, 192, 0.9);
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 2px 0px 2px 5px;
+  width: 110%;
+}
+
+.tooltip p {
+  font-family: 'sans-serif';
+  font-size: 12px;
+  font-size: 0.875em;
+}
+
+.bar:hover {
+  fill: red;
+}
