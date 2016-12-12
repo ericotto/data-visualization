@@ -1,0 +1,15 @@
+.tooltip div {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background: white;
+    padding: 5px;
+}
+
+.tooltip p {
+    margin-bottom: -2px;
+}
+
+circle:hover {
+    stroke-width: 2px;
+    stroke: black;
+}
