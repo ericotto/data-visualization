@@ -1,0 +1,28 @@
+.chart-card {
+    border: 1px solid black;
+    width: 1000px;
+    margin: 20px auto 20px auto;
+    box-shadow: 5px 2px dimGray;
+}
+
+.header {
+    text-align: center;
+}
+
+.tooltip div {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background: black;
+    opacity: 0.9;
+    padding: 5px;
+}
+
+.tooltip > div > p {
+    color: white;
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+
+.bar:hover {
+    fill: black;
+}
